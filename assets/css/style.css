@@ -1,1 +1,1 @@
-body{overflow:hidden;user-select:none;font-family:'Open Sans',sans-serif}h1{position:absolute;font-size:4.8vw;margin-left:auto;margin-right:auto;left:0;right:0;top:30%;text-align:center}#text{animation:blink 2.5s linear infinite}@keyframes blink{50%{opacity:.1}}
+body{height:100%;margin:0;overflow:hidden;user-select:none;font-family:'Open Sans',sans-serif}h1{position:absolute;font-size:6vw;margin-left:auto;margin-right:auto;left:0;right:0;top:30%;text-align:center}#text{animation:blink 2.5s linear infinite}@keyframes blink{50%{opacity:.1}}
